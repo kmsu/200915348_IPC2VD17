@@ -1,0 +1,10 @@
+Commit: Guarda los cambios realizados en el repositorio de manera local, es decir nadie puede ver aun estos cambios 
+	hasta que se realice un push.
+
+Merge: Es cuando varias ramas de repositorio se unen en una sola para que todo quede unificado y los que tienen
+	acceso a esta carpeta tenga la misma version con los mismos cambios.
+
+Diferencia entre pull y push:
+
+-Push: sube todos los cambios como una nueva version a la nube o al repositorio al cual todos tienen acceso
+-Pull: baja todos los archivos de la nube o para que puedan ser modificados.
