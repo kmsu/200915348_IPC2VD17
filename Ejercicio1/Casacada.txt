@@ -1,0 +1,4 @@
+Metodologia cascada: También conocido como modelo clásico, modelo tradicional o modelo lineal secuencial. Él método de la cascada
+es considerado como el enfoque clásico para el ciclo de vida del desarrollo de sistemas, se puede decir que es un método 
+puro que implica un desarrollo rígido. está es una secuencia de actividades(o etapas) que consisten en el análisis de requerimientos, 
+él diseño ,la implementación, la integración y las pruebas .

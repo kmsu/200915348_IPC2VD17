@@ -1,0 +1,13 @@
+Analisis: En esta etapa se pretende recopilar toda la informacion necesaria para definir el problema a solucionar. Se definiran 
+los requerimentos del sistema, los datos necesario y que es lo que debe realizar la solucion.
+
+Diseño: En esta etapa se realizan modelos de las estructuras que resuelven el problema, pueden utilizarse algorritmos, diagramas de flujo,
+diagramas UML, diagramas de relacion conceptual, entre otros. El objetivo es establecer los metodos y relaciones para 
+resolver el problema.
+
+Codificacion: En esta etapa se realiza todo el codigo de programacion que resuelve el problema basado en el analisis y el diseño ya elaborados.
+
+Verificaion o Pruebas: En esta etapa se realizan pruebas de la solucion para verificar que todo lo implementado funcione correctamente.
+
+Manteniento: En esta ultima etapa se realiza actualizaciones que mejoren el sistema o simplemente verificar que todo siga 
+funcionando adecuadamente. En esta etapa se podria decir que se reinicia el ciclo de vida.

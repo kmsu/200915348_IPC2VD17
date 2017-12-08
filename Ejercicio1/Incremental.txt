@@ -1,0 +1,15 @@
+Metodologia Iterativo inv¿cremental: En un desarrollo iterativo e incremental el proyecto se planifica en diversos bloques 
+temporales (en el caso de Scrum de un mes natural o hasta de dos semanas, si así se necesita) llamados iteraciones.
+
+Las iteraciones se pueden entender como miniproyectos: en todas las iteraciones se repite un proceso de trabajo similar 
+(de ahí el nombre “iterativo”) para proporcionar un resultado completo sobre producto final, de manera que el cliente 
+pueda obtener los beneficios del proyecto de forma incremental. Para ello, cada requisito se debe completar en una única 
+iteración: el equipo debe realizar todas las tareas necesarias para completarlo (incluuyendo pruebas y documentación) y que
+esté preparado para ser entregado al cliente con el mínimo esfuerzo necesario. De esta manera no se deja para el final del 
+proyecto ninguna actividad arriesgada relacionada con la entrega de requisitos.
+
+En cada iteración el equipo evoluciona el producto (hace una entrega incremental) a partir de los resultados completados en
+las iteraciones anteriores, añadiendo nuevos objetivos/requisitos o mejorando los que ya fueron completados. Un aspecto fundamental 
+para guiar el desarrollo iterativo e incremental es la priorización de los objetivos/requisitos en función del valor que aportan 
+al cliente.
+
